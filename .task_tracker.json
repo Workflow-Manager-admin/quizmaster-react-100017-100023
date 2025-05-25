@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Main Container for QuizMaster React', 'description': 'Primary container for QuizMaster React implementation: Quizverse is a React.js-based quiz application that allows users to take a multiple-choice quiz, view their score, see correct answers, and track high scores. It features a timer, progress bar, and is mobile responsive. All questions are stored locally in JSON format.', 'framework': 'react', 'platform': 'web'}",
+  "tasks": {},
+  "next_task_id": 1
+}
